@@ -1,0 +1,27 @@
+{
+  "name": "random-ideas-app",
+  "version": "1.0.0",
+  "description": "idea sharing app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuxScintilla/random-ideas-app.git"
+  },
+  "keywords": [],
+  "author": "Ekaterina Furman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuxScintilla/random-ideas-app/issues"
+  },
+  "homepage": "https://github.com/LuxScintilla/random-ideas-app#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
